@@ -114,16 +114,7 @@ Microservice and DB architecture, NoSQL and relational data modeling, large-scal
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tg-mitra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tg-mitra&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=tg-mitra&hide_border=true&theme=tokyonight" alt="Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tg-mitra&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies">
 </p>
 
 <picture>
