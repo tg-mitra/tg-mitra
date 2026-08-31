@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Architect — Agentic AI, Multi-Agent Systems & Production LLM Platforms</b><br>
-  <sub>Bengaluru, India · 20+ years building software, now building agents that run reliably in production</sub>
+  <sub>Bengaluru, India · Building software since 2002, now building agents that run reliably in production</sub>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I design **agentic AI systems** — multi-agent orchestration, agent harnesses, and control loops that hold up outside a demo notebook. My day-to-day is context engineering, tool-calling, memory design, retrieval pipelines (RAG and GraphRAG), and the evaluation and observability layers that tell you whether any of it is actually working.
 
-Before AI I spent two decades as an architect and engineering lead — distributed systems, data modeling, eCommerce at scale. That background is why I care as much about latency, cost and failure modes as about model quality.
+I have been writing software since 2002 and architecting it for the last 11 years — distributed systems, data modeling, eCommerce at scale. That background is why I care as much about latency, cost and failure modes as about model quality.
 
 - 🔭 Building multi-agent healthcare platforms on **LangGraph + AWS Bedrock**
 - 🌱 Deep in **GraphRAG**, small language models (SLMs), and LLM evaluation
@@ -84,7 +84,7 @@ Before AI I spent two decades as an architect and engineering lead — distribut
 - **Solution Architect** — Astria Digital *(2023–2025)* · LLM solution design, RAG, LangChain, Hugging Face, OpenAI toolkits
 
 <details>
-<summary><b>Before that — 20 years of architecture & engineering leadership</b></summary>
+<summary><b>Before that — two decades of engineering and architecture</b></summary>
 
 <br>
 
