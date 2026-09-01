@@ -66,7 +66,7 @@ I have been writing software since 2002 and architecting it for the last 11 year
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **Multi-Agent Healthcare Assistant API** | Enterprise agentic platform orchestrating specialised agents for medical reasoning, conversation management and knowledge retrieval, with shared memory and tool-calling | LangGraph · FastAPI · AWS Bedrock · Mistral |
-| **Agentic Appointment & Medical Info API** | Workflow automation for appointment scheduling, medical FAQs, lab-report explanation, insurance verification and patient notifications | AutoGen · FastAPI · Lambda · SNS/SQS · Mistral |
+| **Agentic Appointment & Medical Info API** | Workflow automation for appointment scheduling, medical FAQs, lab-report explanation, insurance verification and patient notifications | AutoGen · FastAPI · Lambda · SNS/SQS · SageMaker · Mistral |
 | **Fine-Tuning Mistral for Clinical QA** | LoRA/QLoRA fine-tune of Mistral 7B on healthcare data to sharpen clinical question answering and cut hallucinations | PyTorch · Transformers · PEFT |
 | **Enterprise GraphRAG on Neo4j** | Combines vector search with knowledge-graph traversal for explainable answers over interconnected healthcare data | Neo4j · LangGraph · Pinecone |
 | **Agentic Research Assistant (RAG)** | Multi-agent retrieval pipeline that finds, summarises and cites medical research papers | CrewAI · LangChain · Pinecone · Bedrock |
