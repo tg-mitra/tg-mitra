@@ -72,7 +72,7 @@ I have been writing software since 2002 and architecting it for the last 11 year
 | **Agentic Research Assistant (RAG)** | Multi-agent retrieval pipeline that finds, summarises and cites medical research papers | CrewAI · LangChain · Pinecone · Bedrock |
 | **Healthcare Knowledge Lake** | End-to-end ingestion → embeddings → knowledge graph → continuously prepared fine-tuning datasets | AWS Data Lake · Glue · LlamaIndex · SageMaker |
 | **LLM Observability Platform** | Tracks prompts, token spend, latency, hallucination signals and model performance in production | Langfuse · FastAPI · PostgreSQL · Grafana |
-| **[Heartbeat Anomaly Detector](https://huggingface.co/ai-mitra/heartbeat-anomaly-detector)** | CNN detecting heart-sound abnormalities from phonocardiograms, paired with rule-based clinical reasoning — published on HuggingFace🤗 | PyTorch · BioSPPy |
+| **[Heartbeat Anomaly Detector](https://huggingface.co/ai-mitra/heartbeat-anomaly-detector)** | CNN detecting heart-sound abnormalities from phonocardiograms, paired with rule-based clinical reasoning, published on HuggingFace🤗 | PyTorch · BioSPPy |
 
 ---
 
