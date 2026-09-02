@@ -76,6 +76,14 @@ I have been writing software since 2002 and architecting it for the last 11 year
 
 ---
 
+### 🔧 Other Related Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Prompt Slimmer](https://github.com/tg-mitra/prompt-slimmer)** | Modular Python framework that safely compresses prompts — layered filler removal, instruction consolidation, context dedup and semantic summarisation, with protected sections and configurable aggressiveness (0–10) | Python · scikit-learn · Sentence-Transformers |
+
+---
+
 ### 💼 Career at a glance
 
 **AI & Agentic Systems · 2023 – 2026**
