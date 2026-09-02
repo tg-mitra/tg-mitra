@@ -73,13 +73,6 @@ I have been writing software since 2002 and architecting it for the last 11 year
 | **Healthcare Knowledge Lake** | End-to-end ingestion → embeddings → knowledge graph → continuously prepared fine-tuning datasets | AWS Data Lake · Glue · LlamaIndex · SageMaker |
 | **LLM Observability Platform** | Tracks prompts, token spend, latency, hallucination signals and model performance in production | Langfuse · FastAPI · PostgreSQL · Grafana |
 | **[Heartbeat Anomaly Detector](https://huggingface.co/ai-mitra/heartbeat-anomaly-detector)** | CNN detecting heart-sound abnormalities from phonocardiograms, paired with rule-based clinical reasoning, published on HuggingFace🤗 | PyTorch · BioSPPy |
-
----
-
-### 🔧 Other Related Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
 | **[Prompt Slimmer](https://github.com/tg-mitra/prompt-slimmer)** | Modular Python framework that safely compresses prompts — layered filler removal, instruction consolidation, context dedup and semantic summarisation, with protected sections and configurable aggressiveness (0–10) | Python · scikit-learn · Sentence-Transformers |
 
 ---
