@@ -65,7 +65,7 @@ I have been writing software since 2002 and architecting it for the last 11 year
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Prompt Injection Detector](https://huggingface.co/ai-mitra/prompt-injection-detector)** | Sentence-transformers embeddings + scikit-learn classifier flagging prompt injection attempts across 7 known attack patterns (direct, indirect, multimodal, stored, context-hijacking, tool-chain, obfuscated), published on HuggingFace🤗 | Python · scikit-learn · Sentence-Transformers |
+| **[Prompt Injection Detector](https://huggingface.co/ai-mitra/prompt-injection-detector)** | A lightweight, open-source prompt injection detector for LLM and Agentic AI applications, built with Sentence Transformers embeddings and a scikit-learn Logistic Regression classifier., published on HuggingFace🤗 | Python · scikit-learn · Sentence-Transformers |
 | **Multi-Agent Healthcare Assistant API** | Enterprise agentic platform orchestrating specialised agents for medical reasoning, conversation management and knowledge retrieval, with shared memory and tool-calling | LangGraph · FastAPI · AWS Bedrock · Mistral |
 | **Agentic Appointment & Medical Info API** | Workflow automation for appointment scheduling, medical FAQs, lab-report explanation, insurance verification and patient notifications | AutoGen · FastAPI · Lambda · SNS/SQS · SageMaker · Mistral |
 | **Fine-Tuning Mistral for Clinical QA** | LoRA/QLoRA fine-tune of Mistral 7B on healthcare data to sharpen clinical question answering and cut hallucinations | PyTorch · Transformers · PEFT |
