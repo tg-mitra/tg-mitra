@@ -80,22 +80,22 @@ I have been writing software since 2002 and architecting it for the last 11 year
 
 ### 💼 Career at a glance
 
-**AI & Agentic Systems · 2023 – 2026**
+**AI, ML & Agentic Systems · 2018 – 2026**
 
 - **Principal Consultant** — Gyansys Infotech *(2025–2026)* · GraphRAG, SLMs, AWS Data Lake, continuous training & model monitoring
 - **Solution Architect** — Astria Digital *(2023–2025)* · LLM solution design, RAG, LangChain, Hugging Face, OpenAI toolkits
+- **Principal Architect** — iBaseIT *(2022)* · LLM (OpenAI) and deep learning on AWS, microservice & graph data architecture
+- **Technology Manager** — Firstcry.com *(2021)* · Python ML models for marketing prediction, data modeling and architecture
+- **Principal Architect, Full Stack** — Ayan Infotech *(2020–2021)* · ML model fine-tuning for sales prediction, product architecture
+- **Architect** — Wipro Limited *(2018–2020)* · ML and DL model development and fine-tuning, IBM Watson Machine Learning
 
 <details>
-<summary><b>Before that — two decades of engineering and architecture</b></summary>
+<summary><b>Before that — engineering and architecture leadership since 2002</b></summary>
 
 <br>
 
 | Years | Role | Company |
 | --- | --- | --- |
-| 2022 | Principal Architect | iBaseIT, Hyderabad |
-| 2021 | Technology Manager | Firstcry.com, Pune |
-| 2020–2021 | Principal Architect, Full Stack | Ayan Infotech, Noida |
-| 2018–2020 | Architect | Wipro Limited, Bengaluru |
 | 2013–2018 | Senior Solution Architect | Dolphin Foundry, Bengaluru |
 | 2012–2013 | Tech Lead | LearningMate Solutions, Kolkata |
 | 2011–2012 | Team Lead | Innopark India, Hyderabad |
